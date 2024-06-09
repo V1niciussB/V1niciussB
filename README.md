@@ -59,8 +59,8 @@
 ## <div align="center">📊Meus Status</div>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=V1niciussB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas&border_color=30363d"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciussB&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens%20Mais%20Usadas&border_color=30363d"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=V1niciussB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Minhas%20Métricas&border_color=30363d"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciussB&layout=compact&langs_count=7&theme=midnight-purple&custom_title=Linguagens%20Mais%20Usadas&border_color=30363d"/>
 </div>
 
 ## <div align="center">📱Redes Sociais</div>
