@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="80%" src="assets/vinicius"/>
+  <img width="80%" src="assets/vinicius.png"/>
 </div>
 
 <!--
